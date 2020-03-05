@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj": {}
+    "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj": {
+    "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj",
         "projectName": "palindrome",
-        "projectPath": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj",
+        "projectPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",

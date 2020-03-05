@@ -7,7 +7,7 @@ namespace palindrome
     {
         static void Main(string[] args)
         {
-            var word = "racecar";
+            var word = Console.ReadLine();
             bool tf = stitic.Check(word);
 
 

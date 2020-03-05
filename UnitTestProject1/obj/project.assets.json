@@ -4705,11 +4705,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject1\\UnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4725,8 +4725,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj": {
-              "projectPath": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj"
+            "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj": {
+              "projectPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj"
             }
           }
         }

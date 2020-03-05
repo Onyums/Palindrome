@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj": {}
+    "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj": {
+    "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj",
         "projectName": "palindrome",
-        "projectPath": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj",
+        "projectPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\drago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj": {
+    "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj",
+        "projectUniqueName": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj",
         "projectName": "UnitTestProject3",
-        "projectPath": "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj",
+        "projectPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject3\\UnitTestProject3.csproj",
         "packagesPath": "C:\\Users\\drago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drago\\source\\repos\\palindrome\\UnitTestProject3\\obj\\",
+        "outputPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\UnitTestProject3\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -80,8 +80,8 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj": {
-                "projectPath": "C:\\Users\\drago\\source\\repos\\palindrome\\palindrome\\palindrome.csproj"
+              "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj": {
+                "projectPath": "C:\\Users\\drago\\Desktop\\repos\\palindrome\\palindrome\\palindrome.csproj"
               }
             }
           }
