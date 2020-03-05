@@ -10,6 +10,14 @@ namespace palindrome
             var word = Console.ReadLine();
             bool tf = stitic.Check(word);
 
+            if (tf)
+            {
+                Console.WriteLine("yes");
+            }
+            else
+            {
+                Console.WriteLine("no");
+            }
 
         }
         
